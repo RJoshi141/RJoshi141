@@ -20,7 +20,7 @@
 
 ### 🛠️ Languages and Tools:
 
-<div align="center" style="margin: 20px 0;">
+<div align="left" style="margin: 20px 0;">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -32,16 +32,17 @@
 
 ### 📫 Connect with me:
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ritika-joshi-9395591a7/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://github.com/RJoshi141" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" />
   </a>
   <a href="mailto:ritikajoshi141@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
   </a>
 </div>
+
 
 <hr />
