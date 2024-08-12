@@ -37,7 +37,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://github.com/RJoshi141" target="_blank">
-    <img src="https://github.com/logos/github.png" alt="GitHub" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/GitHub_logo_2018.png" alt="GitHub" width="40" height="40" />
   </a>
   <a href="#" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
