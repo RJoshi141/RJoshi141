@@ -34,14 +34,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ritika-joshi-9395591a7/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://github.com/RJoshi141" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/GitHub_logo_2018.png" alt="GitHub" width="40" height="40" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40" />
   </a>
-
   <a href="mailto:ritikajoshi141@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" width="40" height="40" />
   </a>
 </div>
 
