@@ -32,7 +32,7 @@
 
 ### 📫 Connect with me:
 
-<div align="left">
+<div align="left style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/ritika-joshi-9395591a7/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;" />
   </a>
