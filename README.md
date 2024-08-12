@@ -4,6 +4,13 @@ Hi there, I'm Ritika Joshi! 👋
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJoshi141&layout=compact"/>
   </a>
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RJoshi141&" alt="RJoshi141" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RJoshi141&show_icons=true&locale=en" alt="RJoshi141" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RJoshi141&label=Profile%20views&color=0e75b6&style=flat" alt="RJoshi141" /> </p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
