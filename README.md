@@ -1,6 +1,6 @@
 ### Hi there, I'm Ritika Joshi! 👋
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RJoshi141">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJoshi141&layout=compact" />
   </a>
