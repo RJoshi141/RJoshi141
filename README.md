@@ -3,20 +3,7 @@
 <div align="left">
   <a href="https://github.com/RJoshi141">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJoshi141&layout=compact" />
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RJoshi141&" alt="RJoshi141" />
-    <style>
-  .github-stats {
-    font-family: 'SF Mono', monospace;
-    color: #333;
-  }
-</style>
-
-<div class="github-stats">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&preferLogin=true">
-    <img alt="rjoshi141's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rjoshi141?cardType=github&theme=nightowl&preferLogin=true" />
-  </a>
-</div>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rjoshi141&theme=nightowl&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" /></a>  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&preferLogin=true">    <img  alt="rjoshi141's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rjoshi141?cardType=github&theme=nightowl&preferLogin=true" />  </a>
   </a>
 </div>
 
