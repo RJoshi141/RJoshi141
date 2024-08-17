@@ -8,12 +8,6 @@
   </a>
 </div>
 
-  
-
-<div align="left" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=RJoshi141&label=Profile%20views&color=0e75b6&style=flat" alt="RJoshi141" />
-</div>
-
 ### 🛠️ Languages and Tools:
 
 <div align="left" style="margin: 20px 0;">
