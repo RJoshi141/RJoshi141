@@ -3,14 +3,12 @@
 <div align="left">
   <a href="https://github.com/RJoshi141">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJoshi141&layout=compact" />
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RJoshi141&" alt="RJoshi141" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gotham&preferLogin=true">    <img  alt="rjoshi141's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rjoshi141?cardType=github&theme=gotham&preferLogin=true" />  </a>
   </a>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RJoshi141&" alt="RJoshi141" />
-</div>
-
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gotham&preferLogin=true">    <img  alt="rjoshi141's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rjoshi141?cardType=github&theme=gotham&preferLogin=true" />  </a>
+  
 
 <div align="left" style="margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=RJoshi141&label=Profile%20views&color=0e75b6&style=flat" alt="RJoshi141" />
