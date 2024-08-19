@@ -1,5 +1,5 @@
 # 📊GitHub Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=rjoshi141&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" style="border-radius: 10px;" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=rjoshi141&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" style="border-radius: 40px;" /><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rjoshi141&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 # 💻Tech Stack
