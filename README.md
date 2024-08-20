@@ -1,6 +1,7 @@
 # 📊GitHub Stats :
 <a href="https://github.com/rjoshi141"><img src="https://github-readme-stats.vercel.app/api?username=rjoshi141&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=15" alt="GitHub Stats" style="border-radius: 15px;" /></a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rjoshi141&theme=modern-lilac2&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&card_width=350&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://github.com/rjoshi141"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&theme=modern-lilac&hide_border=true&border_radius=15&layout=compact" alt="Most Used Languages" style="border-radius: 15px;" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 # 💻Tech Stack
