@@ -5,7 +5,7 @@ Welcome to my little corner of GitHub! I'm a passionate developer who loves turn
 Pull up a chair, browse around, and feel free to connect—I’d love to chat about cool ideas or collaborate on something amazing!
 
 # 📊 GitHub Stats :
-<a href="https://github.com/rjoshi141"><img src="https://github-readme-stats.vercel.app/api?username=rjoshi141&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=15" alt="GitHub Stats" style="border-radius:15;" /></a>
+<a href="https://github.com/rjoshi141"><img src="https://github-readme-stats.vercel.app/api?username=rjoshi141&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=15" alt="GitHub Stats" style="border-radius:15;" /></a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rjoshi141&theme=codestackr&hide_border=true&border_radius=15&short_numbers=true" alt="GitHub Streak" /></a>
 <a href="https://github.com/rjoshi141">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=dracula&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
