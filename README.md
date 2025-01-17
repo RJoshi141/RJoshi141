@@ -68,5 +68,5 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
 
 ## 🌐 Let's Connect!
 <a href="https://www.linkedin.com/in/ritika-joshi-9395591a7/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
 </a>
