@@ -19,9 +19,9 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mui/mui-original.svg" alt="MUI" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="MUI" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/framer.png" alt="Framer" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" alt="Framer" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
 </p>
 
@@ -29,7 +29,7 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -66,7 +66,7 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
 
 ## Tools & Utilities
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeaftereffects/adobeaftereffects-original.svg" alt="Adobe After Effects" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="50" height="50"/>
 </p>
 
