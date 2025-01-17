@@ -59,7 +59,7 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
 
 ### Tools & Utilities
 <p>
-  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
