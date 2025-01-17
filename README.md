@@ -12,7 +12,7 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rjoshi141&theme=codestackr&hide_border=true&border_radius=15&short_numbers=true" alt="GitHub Streak" width="400" />
 </a>
 <a href="https://github.com/rjoshi141">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
 </a>
 
 ## 💻 Tech Stack
