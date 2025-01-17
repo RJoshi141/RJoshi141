@@ -13,6 +13,30 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
 </a>
 <a href="https://github.com/rjoshi141">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=highcontrast&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+
+  <!-- tokyonight theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+
+<!-- radical theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=radical&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+
+<!-- merko theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=merko&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+
+<!-- gruvbox theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=gruvbox&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+
+<!-- synthwave theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=synthwave&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+
+<!-- nightowl theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=nightowl&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+
+<!-- dracula theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=dracula&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+
+<!-- monokai theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=monokai&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
 </a>
 
 ## 💻 Tech Stack
