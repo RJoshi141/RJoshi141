@@ -12,37 +12,7 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rjoshi141&theme=codestackr&hide_border=true&border_radius=15&short_numbers=true" alt="GitHub Streak" width="400" />
 </a>
 <a href="https://github.com/rjoshi141">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=highcontrast&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
-
-  <!-- onedark theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=onedark&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
-
-<!-- cobalt theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=cobalt&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
-
-<!-- vue theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=vue&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
-
-<!-- gruvbox-dark theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=gruvbox-dark&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
-
-<!-- algolia theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=algolia&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
-
-<!-- great-gatsby theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
-
-<!-- midnight-purple theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
-
-<!-- blueberry theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=blueberry&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
-
-<!-- outrun theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=outrun&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
-
-<!-- dark theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=dark&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
+  <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
 </a>
 
 ## 💻 Tech Stack
