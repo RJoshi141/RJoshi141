@@ -4,16 +4,16 @@ Welcome to my little corner of GitHub! I'm a passionate developer who loves turn
 
 Pull up a chair, browse around, and feel free to connect—I’d love to chat about cool ideas or collaborate on something amazing!
 
-# 📊 GitHub Stats :
+## 📊 GitHub Stats :
 <a href="https://github.com/rjoshi141"><img src="https://github-readme-stats.vercel.app/api?username=rjoshi141&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=15" alt="GitHub Stats" style="border-radius:15;" /></a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rjoshi141&theme=codestackr&hide_border=true&border_radius=15&short_numbers=true" alt="GitHub Streak" /></a>
 <a href="https://github.com/rjoshi141">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=highcontrast&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
 </a>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## Frontend
+### Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -27,7 +27,7 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
 </p>
 
-## Backend & Programming Languages
+### Backend & Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
@@ -40,7 +40,7 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
-## Databases & Cloud
+### Databases & Cloud
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/>
@@ -53,7 +53,7 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
-## Tools & Utilities
+### Tools & Utilities
 <p>
   <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
@@ -62,5 +62,5 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
 </p>
 
 
-# 🌐 Let's Connect!
+## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-joshi-9395591a7/) 
