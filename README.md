@@ -14,29 +14,35 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
 <a href="https://github.com/rjoshi141">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=highcontrast&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
 
-  <!-- tokyonight theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+  <!-- onedark theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=onedark&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
 
-<!-- radical theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=radical&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+<!-- cobalt theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=cobalt&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
 
-<!-- merko theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=merko&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+<!-- vue theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=vue&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
 
-<!-- gruvbox theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=gruvbox&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+<!-- gruvbox-dark theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=gruvbox-dark&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
 
-<!-- synthwave theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=synthwave&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+<!-- algolia theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=algolia&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
 
-<!-- nightowl theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=nightowl&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+<!-- great-gatsby theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
 
-<!-- dracula theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=dracula&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+<!-- midnight-purple theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
 
-<!-- monokai theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=monokai&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" />
+<!-- blueberry theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=blueberry&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
+
+<!-- outrun theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=outrun&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
+
+<!-- dark theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=dark&hide_border=true&bg_color=0E1116&border_radius=15" alt="Top Languages" width="400" />
 </a>
 
 ## 💻 Tech Stack
