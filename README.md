@@ -61,14 +61,14 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
 
 ## Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
 ## Tools & Utilities
 <p>
-  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="Adobe After Effects" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
 </p>
 
 
