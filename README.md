@@ -1,6 +1,6 @@
 # ✨ Hi there! I'm Ritika Joshi  
 
-Welcome to my little corner of GitHub! I'm a passionate developer who loves turning ideas into fun, functional, and creative projects.
+Welcome to my little corner of GitHub! I love turning ideas into fun, functional, and creative projects.
 
 Pull up a chair, browse around, and feel free to connect—I’d love to chat about cool ideas or collaborate on something amazing!
 
