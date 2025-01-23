@@ -29,3 +29,63 @@ Pull up a chair, browse around, and feel free to connect—I’d love to chat ab
 <a href="https://www.linkedin.com/in/ritika-joshi-9395591a7/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
 </a>
+
+
+
+
+Here's an updated version of your README with an 8-bit retro theme:
+
+---
+
+# 🎮✨ Hi there! I'm Ritika Joshi  
+
+Welcome to my **8-bit corner** of GitHub! 🎹 I love turning **pixels of ideas** into **8-bit levels** of fun, functional, and creative projects. Think of this space as a cozy retro arcade of creativity.  
+
+🕹️ Pull up a pixelated chair, browse through the projects, and let’s level up together—**let’s code, collab, and create!** 🚀
+
+---
+
+## 📊 GitHub Stats:  
+<div align="center">
+  <a href="https://github.com/rjoshi141">
+    <img src="https://github-readme-stats.vercel.app/api?username=rjoshi141&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A1A1D&title_color=F72585&text_color=FFFFFF&icon_color=FFD700&border_radius=15" alt="GitHub Stats" width="420" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rjoshi141&theme=radical&hide_border=true&border_radius=15&background=1A1A1D" alt="GitHub Streak" width="400" />
+  </a>
+  <a href="https://github.com/rjoshi141">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjoshi141&layout=compact&theme=radical&hide_border=true&bg_color=1A1A1D&title_color=F72585&text_color=FFFFFF&icon_color=FFD700&border_radius=15" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack (8-bit Style)
+
+### 🎨 **Frontend**
+```
+[ 🖌️ HTML ]  [ 🎨 CSS ]  [ 💡 JavaScript ]  [ 🔧 TypeScript ]  [ ⚡ React ]
+```
+
+### 🎛️ **Backend & Languages**
+```
+[ 🐍 Python ]  [ ☕ Java ]  [ 🚀 Node.js ]  [ C++ ]  [ 🌐 Express.js ] 
+```
+
+### 📀 **Databases & Cloud**
+```
+[ 🔗 MySQL ]  [ 📦 Firebase ]  [ ☁️ AWS ]  [ 🖥️ Docker ]
+```
+
+---
+
+## 🌐 Let’s Connect!  
+
+Reach out and let’s turn concepts into reality! You can find me on LinkedIn:  
+<a href="https://www.linkedin.com/in/ritika-joshi-9395591a7/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+</a>
+
+---
+
+This updated README adds an 8-bit retro vibe with pixelated descriptions, emojis, and a thematic color palette. Let me know if you'd like further tweaks! 🎮✨
