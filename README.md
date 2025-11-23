@@ -8,15 +8,14 @@ I’m a product-minded engineer who loves turning playful ideas into polished, h
   <tr>
     <td width="50%" valign="top">
 
-### 🚀 Currently Building
+### Currently Building
 - **Joydrop Admin UI** – bringing joy to dashboards with React, Next.js, and design systems.
-- **Data Storytelling Workbench** – dashboards powered by Plotly, Flask, and thoughtful UX.
 - **Portfolio Makeover** – reimagining personal storytelling with interactive case studies.
 
 </td>
     <td width="50%" valign="top">
 
-### 📈 GitHub Highlights
+### GitHub Highlights
 <p>
   <a href="https://github.com/rjoshi141">
     <img src="https://github-readme-stats.vercel.app/api?username=rjoshi141&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=18" width="100%" alt="GitHub Stats"/>
@@ -34,7 +33,7 @@ I’m a product-minded engineer who loves turning playful ideas into polished, h
 
 ---
 
-## 🧠 What I’m Passionate About
+## What I’m Passionate About
 
 - **Interactive Frontends**: React, TypeScript, Framer Motion, Material UI, SASS
 - **Scalable Systems**: Node.js, Express, Python, Django, Flask, AWS, Docker
@@ -43,7 +42,7 @@ I’m a product-minded engineer who loves turning playful ideas into polished, h
 
 ---
 
-## 🛠️ Tech Toolkit
+##Tech Toolkit
 
 | Area | Tools |
 | --- | --- |
@@ -51,11 +50,3 @@ I’m a product-minded engineer who loves turning playful ideas into polished, h
 | **Backend & Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" /> <img src="https://img.icons8.com/ios-filled/50/000000/django.png" width="40" alt="Django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" /> |
 | **Cloud & Data** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" alt="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud" /> |
 | **Creative & Analytics** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" alt="Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" alt="Canva" /> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" width="40" alt="After Effects" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" alt="Plotly" /> |
-
----
-
-## 📬 Let’s Connect
-
-<a href="https://www.linkedin.com/in/ritika-joshi-9395591a7/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
-</a>
