@@ -2,7 +2,6 @@
 
 I’m a product-minded engineer who loves turning playful ideas into polished, human-centered experiences. My happy place is where front-end delight meets full-stack thinking—from motion-rich interfaces to resilient backends. Grab a coffee, explore a project, and let’s build something delightful together.
 
----
 
 <table>
   <tr>
@@ -31,7 +30,7 @@ I’m a product-minded engineer who loves turning playful ideas into polished, h
   </tr>
 </table>
 
----
+
 
 ## What I’m Passionate About
 
@@ -40,9 +39,9 @@ I’m a product-minded engineer who loves turning playful ideas into polished, h
 - **Data Storytelling**: Plotly, Pandas, dashboards that explain the “why”
 - **Design-to-Delivery**: Figma, Canva, rapid prototyping, UX flows with empathy
 
----
 
-##Tech Toolkit
+
+## Tech Toolkit
 
 | Area | Tools |
 | --- | --- |
