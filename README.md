@@ -1,6 +1,6 @@
-# Hey there — I’m Ritika!
+# Hi there — I’m Ritika!
 
-I’m a product-minded engineer who loves turning playful ideas into polished, human-centered experiences. My happy place is where front-end delight meets full-stack thinking—from motion-rich interfaces to resilient backends. Grab a coffee, explore a project, and let’s build something delightful together.
+I’m a product-minded engineer who loves turning ideas into polished, human-centered experiences. My happy place is where front-end delight meets full-stack thinking—from motion-rich interfaces to resilient backends. Grab a coffee, explore a project, and let’s build something delightful together :)
 
 
 <table>
