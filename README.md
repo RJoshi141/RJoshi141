@@ -14,13 +14,6 @@ Full-stack engineer in San Francisco. Founding engineer at **Joydrop**, where I 
 | [**Zoomies**](https://github.com/RJoshi141/zoomies) | Pixel-art endless runner. A dog, some logs, a lot of bones | Swift, SpriteKit |
 | [**iPhone Duo**](https://iphone-duo-casestudy.vercel.app) | Product design case study for a foldable iPhone concept | Web |
 
-## At Joydrop
-
-- Shipped the web app and iOS app from zero to launch
-- Built the Communities feature end to end
-- Set up push notifications (Expo + NestJS) and released builds via EAS to TestFlight
-- Improved app performance by ~30%
-
 ## Toolkit
 
 **iOS** &nbsp; <img src="https://skillicons.dev/icons?i=swift" height="36" alt="Swift" /> SwiftUI · SpriteKit · AVFoundation · WatchConnectivity
