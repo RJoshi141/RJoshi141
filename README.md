@@ -7,10 +7,6 @@ I’m a product-minded engineer who loves turning ideas into polished, human-cen
   <tr>
     <td width="50%" valign="top">
 
-### Currently Building
-- **Joydrop Admin UI** – bringing joy to dashboards with React, Next.js, and design systems.
-- **Portfolio Makeover** – reimagining personal storytelling with interactive case studies.
-
 </td>
     <td width="50%" valign="top">
 
