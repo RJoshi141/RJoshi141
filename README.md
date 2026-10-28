@@ -4,16 +4,6 @@ Full-stack engineer in San Francisco. Founding engineer at **Joydrop**, where I 
 
 [Portfolio](https://rjoshi141.github.io) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:ritikajoshi141@gmail.com)
 
-## What I'm building
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Even**](https://github.com/RJoshi141/even) | Step-free routing for wheelchair and stroller users in SF, with live elevator outages | Swift, SwiftUI |
-| [**Layer**](https://github.com/RJoshi141/layer) | Skincare shelf app with label scanning, voice logs, and an in-app assistant | Swift, SwiftUI |
-| [**Utter**](https://github.com/RJoshi141/utter) | watchOS + iOS voice memos with on-device transcription and auto-categorization | Swift, WatchConnectivity, AVFoundation, Speech |
-| [**Zoomies**](https://github.com/RJoshi141/zoomies) | Pixel-art endless runner. A dog, some logs, a lot of bones | Swift, SpriteKit |
-| [**iPhone Duo**](https://iphone-duo-casestudy.vercel.app) | Product design case study for a foldable iPhone concept | Web |
-
 ## Toolkit
 
 **iOS** &nbsp; <img src="https://skillicons.dev/icons?i=swift" height="36" alt="Swift" /> SwiftUI · SpriteKit · AVFoundation · WatchConnectivity
