@@ -4,18 +4,6 @@ Full-stack engineer in San Francisco. Founding engineer at **Joydrop**, where I 
 
 [Portfolio](https://rjoshi141.github.io) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:ritikajoshi141@gmail.com)
 
-## Toolkit
-
-**iOS** &nbsp; <img src="https://skillicons.dev/icons?i=swift" height="36" alt="Swift" /> SwiftUI · SpriteKit · AVFoundation · WatchConnectivity
-
-**Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite" height="36" alt="React, TypeScript, Next.js, Tailwind, Vite" /> Framer Motion
-
-**Backend & Data** &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,postgres,firebase" height="36" alt="Node.js, NestJS, Python, FastAPI, PostgreSQL, Firebase" />
-
-**Infra** &nbsp; <img src="https://skillicons.dev/icons?i=docker,aws,vercel" height="36" alt="Docker, AWS, Vercel" />
-
-**Design** &nbsp; <img src="https://skillicons.dev/icons?i=figma,ae,ps,ai" height="36" alt="Figma, After Effects, Photoshop, Illustrator" />
-
 ## GitHub
 
 <p>
